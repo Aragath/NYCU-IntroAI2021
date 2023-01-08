@@ -14,15 +14,15 @@
 
 #### 8-Puzzle
 
-Used MCTS to implement an game agent that auto-plays the board game "Battle Sheep"
+Implemented a game agent using A star from scratch
 
 #### CNN Classifier
 
-Used Reinforment Learning to implement an game agent that auto-plays the classic game "Pacman"
+Implemented a CNN Classifier to classify datasets provided from TA
 
 #### Decision Tree & Random Forest
 
-Participated in the KORE2022 Competition on Kaggle, using Reinforment Learning and Rule-Based method to implement the game agent
+Implemented a Decision Tree on forecasting weather from scratch
 
 #### K-Means Clustering
 
